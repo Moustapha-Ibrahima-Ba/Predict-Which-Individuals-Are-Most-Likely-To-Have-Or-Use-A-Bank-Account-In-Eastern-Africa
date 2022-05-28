@@ -13,3 +13,5 @@ The objective of this competition is to create a machine learning model to predi
 - ### Clean data
 - ### Check informations
 - ## About the countries
+- ## Relationship
+- ## What we find ?
